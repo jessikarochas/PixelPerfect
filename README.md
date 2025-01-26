@@ -29,8 +29,8 @@ Follow these steps to install the PixelPerfect theme on your RetroFE setup:
 
 ## Screenshots
 
-![Main Menu](./screenshots/screenshot1.jpg)
-![Game Selection](./screenshots/screenshot2.jpg)
+![Main Menu](./screenshots/screenshot01.jpg)
+![Game Selection](./screenshots/screenshot02.jpg)
 
 ## Compatibility
 
