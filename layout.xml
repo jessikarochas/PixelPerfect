@@ -15,16 +15,15 @@
     <image src="images/background.png" x="0" y="0" height="stretch" width="stretch" layer="0"/>
 
     <!-- Battery -->
-    <battery reloadPeriod="3" fontColor="f1e7d4" alpha="0" x="right" xOrigin="right" xOffset="-5" y="top" yOrigin="center" yOffset="13" layer="14" >
+    <battery reloadPeriod="3" fontColor="E0E0E0" alpha="0" x="right" xOrigin="right" xOffset="-5" y="top" yOrigin="center" yOffset="13" layer="14">
+        <!-- Enter/Exit Animations -->
         <onEnter>                   <set duration=".3"><animate type="alpha" to="1"/></set></onEnter>
         <onExit>                   <set duration=".3"><animate type="alpha" to="0"/></set></onExit>
         <onMenuEnter menuIndex="0"><set duration=".3"><animate type="alpha" to="1"/></set></onMenuEnter>
         <onMenuExit  menuIndex="0"><set duration=".3"><animate type="alpha" to="0"/></set></onMenuExit>
         <onGameEnter menuIndex="0"><set duration=".3"><animate type="alpha" to="0"/></set></onGameEnter>
-        <onGameExit  menuIndex="0"><set duration=".3"><animate type="alpha" to="1"/></set></onGameEnter>
+        <onGameExit  menuIndex="0"><set duration=".3"><animate type="alpha" to="1"/></set></onGameExit>
     </battery>
-
-
 
     <!-- ----------------------------------------------- -->
     <!-- ---------------Main menu section--------------- -->
