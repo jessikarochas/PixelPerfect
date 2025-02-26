@@ -14,3 +14,5 @@
 ./Pico8/system_artwork/logo.png
 ./Pokemon Mini/system_artwork/logo.png
 ./MAME/system_artwork/logo.png
+./MPlayer/system_artwork/logo.png
+./GMU/system_artwork/logo.png
